@@ -29,9 +29,3 @@ void	ft_print_numbers()
 		i ++;
 	}
 }
-
-int	main()
-{
-	ft_print_numbers();
-	return(0);
-}
